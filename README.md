@@ -2,7 +2,6 @@
 chessGameTestProject
 
 Using cMake
-Need to have instal cMake 
 
 Navigate to build directory in chess 
 then  open terminal there
